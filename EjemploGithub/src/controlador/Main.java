@@ -6,10 +6,9 @@ public class Main {
 
 
 		System.out.println("janire jijiji");
-
-		// TODO Auto-generated method stub
 		System.out.println("holii");
 		System.out.println("janii888");
+		System.out.println("aaaaaa");
 	}
 
 }
